@@ -1,6 +1,6 @@
 ### Olá Dev! 🌐💥✅
 - 🔭 Desenvolvedor Front-end
-- 😀 Pronouns Ele/dele
+- 😀 Foco no FullStack
 - 🛑 Inglês Intermediário
 - 🥇 Técnico em informática
 <div>

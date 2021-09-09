@@ -29,7 +29,8 @@
         <a href="https://twitter.com/luizhen56479757
 "><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
         <a href="12997190026"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" height="27" width="140"></a>
-        ![Snake animation](https://github.com/luizhenrique449944/luizhenrique449944/blob/output/github-contribution-grid-snake.svg)
     </div>
+    
+    ![Snake animation](https://github.com/luizhenrique449944/luizhenrique449944/blob/output/github-contribution-grid-snake.svg)
     
 

@@ -29,7 +29,7 @@
         <a href="https://twitter.com/luizhen56479757
 "><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
         <a href="https://api.whatsapp.com/send?phone=5512997190026&text=Ol%C3%A1%20!%20Sou%20Desenvolvedor%20Luiz%20Henrique%20Ramos%20!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" height="24" width="140"></a>
-        <a href="luizramos98@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="24" width="140"></a>
+        <a href="luizramos98@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="24" width="125"></a>
     </div>
     
     

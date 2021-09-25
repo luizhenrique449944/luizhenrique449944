@@ -16,7 +16,7 @@
     <img align="center alt="Luiz-AWS height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
     <img align="center alt="Luiz-NODE.JS height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
     <img align="center alt="Luiz-PHP height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img align="center alt="Luiz-VUE.JS height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
+    <img align="center alt="Luiz-REACT height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center alt="Luiz-DOCKER height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
     <hr>
     <div>

@@ -32,6 +32,6 @@
         </div>
       <hr>
     
-    ## A cobra está comendo todos meus Commits
+    ## Watch my contribution graph get eaten by the snake
     ![snake gif](https://github.com/luizhenrique449944/luizhenrique449944/blob/output/github-contribution-grid-snake.gif)
 

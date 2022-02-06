@@ -3,6 +3,8 @@
 - 😀 Foco no FullStack
 - 🛑 Inglês Intermediário
 - 🥇 Técnico em informática
+- 📩 Entra em contato pelo E-mail: luizramos98@hotmail.com
+
 <div>
    <a href="https://luizhenrique449944">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizhenrique449944&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

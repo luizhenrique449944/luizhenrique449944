@@ -1,7 +1,7 @@
 ### Olá Dev! 🌐💥✅
 - 🔭 Desenvolvedor Front-end
 - 😀 Foco no FullStack
-- 🛑 Inglês Intermediário
+- 🛑 Inglês Avançado
 - 🥇 Técnico em informática
 - 📩 Entra em contato pelo E-mail: luizramos98@hotmail.com
 

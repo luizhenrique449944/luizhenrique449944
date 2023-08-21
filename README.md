@@ -1,5 +1,6 @@
 ### Olá Dev! 🌐💥✅
 - 🔭 Desenvolvedor Front-end
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 - 😀 Foco no FullStack
 - 🛑 Inglês Avançado
 - 🥇 Técnico em informática

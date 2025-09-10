@@ -33,8 +33,9 @@
         <a href="https://api.whatsapp.com/send?phone=5512997190026&text=Ol%C3%A1%20!%20Sou%20Desenvolvedor%20Luiz%20Henrique%20Ramos%20!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" height="27" width="140"></a>
         </div>
       <hr>
-##
-    <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+
+    <img src="https://raw.githubusercontent.com/luizhenrique449944/luizhenrique449944/output/snake.svg" alt="Snake animation" />
+    
     
     
    
